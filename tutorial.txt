@@ -1,3 +1,4 @@
-Uno inserta código con la tecla i, en modo normal.
+Entras a modo normal con ESC, presionas i, y luego ingresas texto.
 Uno sale del modo de inserción con ESC.
 Los gatos no se bañan, se bañan a sí mismos.
+Sales de modo normal al accionar un comando válido.
