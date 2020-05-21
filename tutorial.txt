@@ -1,2 +1,3 @@
+Lo que me está salvando de romper mi escritorio es el hecho de que Vim es súper eficiente.
 Uno inserta código con la tecla i, en modo normal.
 Uno guarda sus cambios con :x.
