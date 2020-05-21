@@ -1,2 +1,5 @@
 Entras a modo normal con ESC, presionas i, y luego ingresas texto.
 Te mueves a través del modo normal con h,j,k y l.
+Uno inserta código con la tecla i, en modo normal.
+Uno sale del modo de inserción con ESC.
+Los gatos no se bañan, se bañan a sí mismos.
