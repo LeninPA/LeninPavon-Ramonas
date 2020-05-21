@@ -1,2 +1,3 @@
 Uno inserta código con la tecla i, en modo normal.
 Uno sale del modo de inserción con ESC.
+Los gatos no se bañan, se bañan a sí mismos.
