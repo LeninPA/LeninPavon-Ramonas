@@ -1,1 +1,2 @@
 Uno inserta código con la tecla i, en modo normal.
+Uno sale del modo de inserción con ESC.
