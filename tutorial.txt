@@ -5,3 +5,6 @@ Uno inserta código con la tecla i, en modo normal.
 Uno guarda sus cambios con :x.
 Llevo dos horas haciendo esto y ahora debo de empezar de nuevo.
 Y de nuevo, porque confundí el orden de los cambios.
+Saben, esto es lo más frustrante que he hecho en toda mi vida.
+Otra vez, veamos si esta es la buena
+
