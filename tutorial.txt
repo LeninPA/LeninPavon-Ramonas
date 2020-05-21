@@ -1,5 +1,6 @@
 Con hjkl te mueves en modo normal
 Uno inserta código con la tecla i, en modo normal.
 Uno guarda sus cambios con :x.
+También se guarda con am, no me acuerdo
 Llevo dos horas haciendo esto y ahora debo de empezar de nuevo.
 Y de nuevo, porque confundí el orden de los cambios.
