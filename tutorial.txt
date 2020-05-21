@@ -1,1 +1,1 @@
-Uno inserta código con la tecla i, en modo normal.
+Entras a modo normal con ESC, presionas i, y luego ingresas texto.
