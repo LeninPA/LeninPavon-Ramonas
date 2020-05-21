@@ -1,1 +1,2 @@
 Entras a modo normal con ESC, presionas i, y luego ingresas texto.
+Sales de modo normal al accionar un comando válido.
