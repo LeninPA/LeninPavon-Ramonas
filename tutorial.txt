@@ -1,1 +1,2 @@
 Uno inserta código con la tecla i, en modo normal.
+Uno guarda sus cambios con :x.
